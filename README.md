@@ -14,7 +14,7 @@
 - Composer instalado
 
 # ❔ Como utilizar 
-  Rode o comando php artisan serve
+    Rode o comando php artisan serve
   
 # 🎇 Funcionalidades 
 - Listagem das séries
