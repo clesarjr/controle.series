@@ -1,5 +1,10 @@
-# Sobre ❓
-  Desenvolvimento de um sistema que controla as séries assistidas pelo usuário utilizando Laravel
+<p align="center">Sistema que controla as séries assistidas pelo usuário</p> 
+ <p align="center">Aplicação desenvolvida no curso de Laravel da <a href="https://www.alura.com.br//">@alura</a> </p>
+
+# Tecnologias utilizadas 🚀
+- [PHP](https://www.php.net/)
+- [Laravel](https://laravel.com/)
+- [SQLite](https://www.sqlite.org/index.html) 
 
 # Pré Requisitos ✔️
 - PHP instalado
