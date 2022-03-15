@@ -9,7 +9,7 @@
   Rode o comando php artisan serve
   
 # Funcionalidades 🎇
-## Listagem das séries
-## Inserção das séries
-## Alteração das séries
-## Exclusão das séries
+- Listagem das séries
+- Inserção das séries
+- Alteração das séries
+- Exclusão das séries
