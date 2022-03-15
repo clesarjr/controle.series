@@ -1,4 +1,4 @@
-<p align="center">Sistema que controla as séries assistidas pelo usuário</p> 
+<h1><p align="center">Sistema que controla as séries assistidas pelo usuário</p></h1>
  <p align="center">Aplicação desenvolvida no curso de Laravel da <a href="https://www.alura.com.br//">@alura</a> </p>
 
 # Tecnologias utilizadas 🚀
