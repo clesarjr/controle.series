@@ -1,6 +1,8 @@
 <h1><p align="center">Sistema que controla as séries assistidas pelo usuário</p></h1>
  <p align="center">Aplicação desenvolvida no curso de Laravel da <a href="https://www.alura.com.br//">@alura</a> </p>
 
+# 🎯 Sobre
+
 # Tecnologias utilizadas 🚀
 - [PHP](https://www.php.net/)
 - [Laravel](https://laravel.com/)
