@@ -2,7 +2,7 @@
  <p align="center">Aplicação desenvolvida no curso de Laravel da <a href="https://www.alura.com.br//">@alura</a> </p>
 
 # 🎯 Sobre
-   O intuito do desenvolvimento deste projeto é implementar diversos conceitos do Laravel, tais como: Models, Controllers e Views.
+   O intuito do desenvolvimento deste projeto foi implementar diversos conceitos do Laravel, tais como: Models, Controllers e Views.
     
 # 🚀 Tecnologias utilizadas 
 - [PHP](https://www.php.net/)
